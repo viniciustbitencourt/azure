@@ -1,2 +1,2 @@
 <?php
-echo "<h1> Cadê a minha bebê ? Manda um vídeo dela, tô com saudades</h1>";
+echo "<h1> Teste Azure WebAPP</h1>";
