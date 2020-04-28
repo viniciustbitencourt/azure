@@ -1,2 +1,2 @@
 <?php
-echo "<h1> Teste Azure WebAPP</h1>";
+echo "<h1> Teste Azure WebAPP </h1>";
